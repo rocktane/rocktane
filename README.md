@@ -3,9 +3,8 @@
 
 -----
 
-<h3 align="left">Retrouves moi (bientôt) sur : <a href="https://yohangouiran.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/394/394576.png" alt="cone" width="30"/>
-yohangouiran.com
-<img src="https://cdn-icons-png.flaticon.com/512/394/394576.png" alt="cone" width="30"/> </a> </h3>
+<h3 align="left">Mon site : <a href="https://www.yohangouiran.com/" target="_blank" rel="noreferrer">
+yohangouiran.com</h3>
 
 -----
 
